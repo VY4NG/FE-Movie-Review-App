@@ -1,0 +1,21 @@
+/* Styling to the body. */
+body {
+  background-color: gray;
+  text-align: center;
+  font-size: large;
+  padding: 10px;
+}
+
+/* stars styling for the stars. */
+.stars {
+  font-size: 30px;
+}
+
+.star {
+  cursor: pointer;
+  color: #ccc;
+}
+
+.star.filled {
+  color: gold;
+}
